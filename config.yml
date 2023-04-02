@@ -1,0 +1,3 @@
+app:
+  name: "go_auth"
+  port: 4000
